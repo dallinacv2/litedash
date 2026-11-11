@@ -40,7 +40,7 @@ fun signingValue(key: String, env: String): String? = signing.getProperty(key) ?
 // Publicado en el release "catalogo" (prerelease). Para probar uno local en el
 // emulador: ./gradlew ... -Pcatalog=http://10.0.2.2:8765/catalogo.json
 val CATALOG_URL = (findProperty("catalog") as String?)
-    ?: "https://raw.githubusercontent.com/dallinacv2/litedash/personal/personal/catalogo.json"
+    ?: "https://raw.githubusercontent.com/dallinacv2/Dashimage/main/personal/catalogo.json"
 val hasSigning = signingValue("storeFile", "LITEDASH_STORE_FILE") != null
 
 android {
