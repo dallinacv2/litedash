@@ -1,0 +1,42 @@
+name: Release personal
+
+# Publica el APK de prueba (variante play, depuración) en la página de Releases.
+# Se lanza a mano: Actions > Release personal > Run workflow. No usa secretos ni llaves.
+# El release original (release.yml) exige la llave de firma de Irving y no sirve aquí.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Versión y etiqueta
+        run: |
+          version=$(grep '^VERSION_NAME=' version.properties | cut -d= -f2)
+          echo "VERSION=$version" >> "$GITHUB_ENV"
+          echo "TAG=v$version-personal.${{ github.run_number }}" >> "$GITHUB_ENV"
+
+      - name: Compilar APK
+        run: ./gradlew assemblePlayDebug --console=plain
+
+      - name: Publicar release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          apk="litedash-personal-$VERSION.apk"
+          cp app/build/outputs/apk/play/debug/*.apk "$apk"
+          gh release create "$TAG" "$apk" \
+            --title "LiteDash personal $VERSION (#${{ github.run_number }})" \
+            --notes "APK de prueba de la variante play (depuración), compilado en GitHub. Sin actualizador. Cada compilación lleva una firma de prueba distinta: si Android no deja instalar encima de otra, desinstala la anterior primero." \
+            --prerelease
