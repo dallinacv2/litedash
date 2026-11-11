@@ -1,0 +1,515 @@
+{
+  "autos": [
+    {
+      "id": "hyundai-sonata-2012",
+      "nombre": "Sonata",
+      "marca": "Hyundai",
+      "anio": 2012,
+      "autor": "Personal",
+      "licencia": "Uso personal",
+      "url": "https://raw.githubusercontent.com/dallinacv2/litedash/personal/personal/hyundai-sonata-2012.zip",
+      "bytes": 1732132,
+      "sha256": "a93d8b1a4ebb54af3822f661b018e28da2b47b3c55546a654fe223d96f3f899c",
+      "miniatura": "https://raw.githubusercontent.com/dallinacv2/litedash/personal/personal/hyundai-sonata-2012.webp"
+    },
+    {
+      "id": "mitsubishi/lancer-evo-2010",
+      "nombre": "Lancer Evolution X",
+      "marca": "Mitsubishi",
+      "anio": 2015,
+      "autor": "OUTPISTON",
+      "licencia": "CC-BY-NC-SA-4.0",
+      "fuente": "https://sketchfab.com/3d-models/2015-mitsubishi-lancer-evolution-x-158f93ab29724a0a88bebdb082565576",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-2010.zip",
+      "bytes": 2218383,
+      "sha256": "707145da6072c3f6e76d25066b4f7f77b41a03f158a59dcc4af02fa4da8de24f",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-2010.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-2010-fluidez1.zip",
+          "bytes": 2130628,
+          "sha256": "63e0de46087ed689d8eaf3fb3ae5b8b5b94b4192d946b7e9dbbca33ee61bf3a5"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-2010-planta.zip",
+        "bytes": 47326,
+        "sha256": "9dbec97e0463d63ec32a0b05adb57feaeb8867d5ab4302f4b317778f57c3aa80"
+      },
+      "subida": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-2010-subida.zip",
+        "bytes": 898677,
+        "sha256": "057577b972b1d756a8eff9f0760fcd4c20207deca4947d7425acf22a0f02f82c"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-2010-wheels.zip",
+        "bytes": 3212,
+        "sha256": "45343e85c11bdcde5e2b57df12d1f4c76b6502c0797e02b09d63780c4c820798"
+      },
+      "acabado": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-2010-acabado.zip",
+        "bytes": 882692,
+        "sha256": "7c7dbcded13de473f3352353d1156f6ebf2748bfe243f00388acdb37fdb1ae44"
+      },
+      "anios": "2008–2015"
+    },
+    {
+      "id": "mitsubishi/lancer-evo-ix-2006",
+      "nombre": "Lancer Evolution IX",
+      "marca": "Mitsubishi",
+      "anio": 2006,
+      "autor": "Mona x Supercars",
+      "licencia": "CC-BY-4.0",
+      "fuente": "https://sketchfab.com/3d-models/mitsubishi-lancer-evolution-ix-mr-gsr-ct9a-e0646088011743639370003738d7013c",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-ix-2006.zip",
+      "bytes": 2120525,
+      "sha256": "77e15b9dc0af3f05d125ae99f85747f1b73a775c7464edb20f367d34002476c3",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-ix-2006.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-ix-2006-fluidez1.zip",
+          "bytes": 2037042,
+          "sha256": "ffa37f75830d1ffd5d8bf6a623d467d81287ef0a9ba9fab326cb09c5a6d524b0"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-ix-2006-planta.zip",
+        "bytes": 47088,
+        "sha256": "23fbebe2db71941cc7cf0e33b4fe988ddfa0b67275cae0c5cbddf3f7444c03de"
+      },
+      "subida": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-ix-2006-subida.zip",
+        "bytes": 881823,
+        "sha256": "c34d8ef856a41dbfcddd060b432fe83c5a7601ccb3d6eb235f17896bdb7c5d25"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-ix-2006-wheels.zip",
+        "bytes": 3220,
+        "sha256": "06c4528211686a4b63c3d8c85d7b310696256a3d20afdd69a12f007f36e238aa"
+      },
+      "acabado": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/mitsubishi-lancer-evo-ix-2006-acabado.zip",
+        "bytes": 901466,
+        "sha256": "a21d8a55facd6a1166d9ef88ce78086018e8f6d9b41b6a754e014f39b2c53377"
+      },
+      "anios": "2005–2007"
+    },
+    {
+      "id": "bmw/s1000-rr",
+      "nombre": "S1000 RR",
+      "marca": "BMW",
+      "anio": 2019,
+      "autor": "VTX",
+      "licencia": "CC-BY-NC-SA-4.0",
+      "fuente": "https://sketchfab.com/3d-models/bmw-s1000-rr-1873aed292d6465694119bd81860a0c2",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/bmw-s1000-rr.zip",
+      "bytes": 2497718,
+      "sha256": "f8e269210ffd185a329c26504748d24dae68b127a8fd8e14b5355e9cbc7a76a2",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/bmw-s1000-rr.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/bmw-s1000-rr-fluidez1.zip",
+          "bytes": 2390078,
+          "sha256": "569a37d60b2a8f6b8ee4c63a58e7ce86e36526f45cb211e138444c95edd8f799"
+        }
+      ],
+      "acabado": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/bmw-s1000-rr-acabado.zip",
+        "bytes": 240644,
+        "sha256": "3467396b2c134939c9ec97367b58837bbeeece505031ee27f071f2d4cb486b55"
+      },
+      "anios": "2019–2022"
+    },
+    {
+      "id": "chevrolet/corsa-sedan-2005",
+      "nombre": "Corsa Sedán",
+      "marca": "Chevrolet",
+      "anio": 2005,
+      "autor": "FidwixGamer y BHP3D (llantas)",
+      "licencia": "CC-BY-4.0",
+      "fuente": "https://sketchfab.com/3d-models/chevrolet-corsa-sedan-2010-fidwixgamer-f1b5b562ca874643b98dc81645091ceb",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/chevrolet-corsa-sedan-2005.zip",
+      "bytes": 2109552,
+      "sha256": "dbcb06acfb2a8c438669d5e393143cea0f8bb5f3874b561af2d3c8cc8e93f870",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/chevrolet-corsa-sedan-2005.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/chevrolet-corsa-sedan-2005-fluidez1.zip",
+          "bytes": 2019242,
+          "sha256": "3185903dd69a6435b4e9ffe4b20e7a40d5e4d4d4be4e767285ffcf4712b6b947"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/chevrolet-corsa-sedan-2005-planta.zip",
+        "bytes": 41792,
+        "sha256": "de8fc60bb9c846ed22e0c7884d7ffff52a416076c846ba1364077b9d234a2d39"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/chevrolet-corsa-sedan-2005-wheels.zip",
+        "bytes": 3219,
+        "sha256": "41c83c27ea1a1b84cd0d06b84e3b285cd5683879df8329b272b59163ba461a07"
+      },
+      "anios": "2002–2008"
+    },
+    {
+      "id": "hyundai/tucson-2016",
+      "nombre": "Tucson",
+      "marca": "Hyundai",
+      "anio": 2016,
+      "autor": "franco ✮⋆˙ (billowous) y Ddiaz Design (llantas)",
+      "licencia": "Sketchfab Standard; llantas CC-BY-NC-SA-4.0",
+      "fuente": "https://sketchfab.com/3d-models/2016-hyundai-tucson-usdm-e41af49010384cbc82cf8c1c9ba9d895",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/hyundai-tucson-2016.zip",
+      "bytes": 2351915,
+      "sha256": "897818738a0d42dd8befe6dd21556fec219a9b524f0996768a60bedce9a5a415",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/hyundai-tucson-2016.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/hyundai-tucson-2016-fluidez1.zip",
+          "bytes": 2256774,
+          "sha256": "db039b187bb2ba92e22d82be4e388d348101ad080b4e9156a6bf1cf5912c514b"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/hyundai-tucson-2016-planta.zip",
+        "bytes": 49902,
+        "sha256": "75cd92d954c7c509741d3a119ea88f64269ca2be9582e7ccd8d610cc974f254f"
+      },
+      "subida": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/hyundai-tucson-2016-subida.zip",
+        "bytes": 928509,
+        "sha256": "625971557439f3b12e2e89f1d0ced261fbd7ecbd7e90b4f6c564ee7229425309"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/hyundai-tucson-2016-wheels.zip",
+        "bytes": 3227,
+        "sha256": "a3fa7a3504a70fa7df3075c62bc30d9660920b636caee68d92606c1bc86106cb"
+      },
+      "anios": "2016–2018"
+    },
+    {
+      "id": "nissan/tiida-2010",
+      "nombre": "Tiida",
+      "marca": "Nissan",
+      "anio": 2010,
+      "autor": "Irving Guerra (generado con Meshy AI)",
+      "licencia": "Modelo propio de LiteDash",
+      "fuente": "https://www.meshy.ai",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/nissan-tiida-2010.zip",
+      "bytes": 2197490,
+      "sha256": "7f24d2405350f974425f825fc4165698f2ee4c68d1bbd2e44958e350d52245cb",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/nissan-tiida-2010.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/nissan-tiida-2010-fluidez1.zip",
+          "bytes": 2104360,
+          "sha256": "95d6800df537822636ae0aa63d54035d7019c0f3f1f673463fa29c14b178c0ef"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/nissan-tiida-2010-planta.zip",
+        "bytes": 48722,
+        "sha256": "a59116e14a4f93314379a4149583772b49136ac4bf1e10d5a9e5266467c3907b"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/nissan-tiida-2010-wheels.zip",
+        "bytes": 3218,
+        "sha256": "e19eb3b9e2503484ee7a354f4298b64e05fdf370d7b2f8ffb15100820bf7864f"
+      }
+    },
+    {
+      "id": "kia/picanto-2012",
+      "nombre": "Picanto",
+      "marca": "Kia",
+      "anio": 2012,
+      "autor": "KOElkast1007",
+      "licencia": "Sketchfab Standard",
+      "fuente": "https://sketchfab.com/3d-models/kia-picanto-9360770aa1f44db08c7b026819ccf68a",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/kia-picanto-2012.zip",
+      "bytes": 2283662,
+      "sha256": "d7dd1829065e0eb9bca70a1eac3c71fd14463eacafcd8fe3a3a8c871552bccb0",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/kia-picanto-2012.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/kia-picanto-2012-fluidez1.zip",
+          "bytes": 2185444,
+          "sha256": "92d341bdba8fa3d7c3c0a71c47f367cbf172c35845c316de17123ec49b7eae0a"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/kia-picanto-2012-planta.zip",
+        "bytes": 54566,
+        "sha256": "9f2dc0f6140e69fd6df3fc240eae0bd14aea6c37b06f5396f988d9c49f4cc3a4"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/kia-picanto-2012-wheels.zip",
+        "bytes": 3222,
+        "sha256": "07560131ace3164cad5dc408c4a351d50ef475f5b4b2b385f8bf94ae1a25eb64"
+      },
+      "anios": "2011–2015"
+    },
+    {
+      "id": "toyota/rav4-2016",
+      "nombre": "RAV4",
+      "marca": "Toyota",
+      "anio": 2016,
+      "autor": "DogeAvalon2006",
+      "licencia": "Sketchfab Standard",
+      "fuente": "https://sketchfab.com/3d-models/2016-toyota-rav-4-c60b2bf47c4341c59462449e069257a2",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2016.zip",
+      "bytes": 2161659,
+      "sha256": "016b845376af962ce7d39a69c2ed82c83a39fb380bbc556a5f14d2bad27527a9",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2016-v2.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2016-fluidez1.zip",
+          "bytes": 2072006,
+          "sha256": "6e0c448ee902b7c63f5be9c9fcd297b333423883291333e908430a967cb8ae37"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2016-planta.zip",
+        "bytes": 59554,
+        "sha256": "f68ce6764b274eba483c7ff401fdb3b21d3cc0fc9c9a6d1b784dbbb44b34aba2"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2016-wheels.zip",
+        "bytes": 3221,
+        "sha256": "c7e8e2ee81a1258b14b18104754875d549e83e326a3651de8e523af39cddb1c7"
+      },
+      "anios": "2016–2018"
+    },
+    {
+      "id": "toyota/corolla-e180-2014",
+      "nombre": "Corolla",
+      "marca": "Toyota",
+      "anio": 2014,
+      "autor": "Armored Wave",
+      "licencia": "CC-BY-4.0",
+      "fuente": "https://sketchfab.com/3d-models/2014-toyota-corolla-e180-eu-with-interior-36f95efb0585464cae43a25a3b3392e8",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e180-2014.zip",
+      "bytes": 2003690,
+      "sha256": "ac88bab7ff49e5111c7039878b1baf8838665db584e4744c7ef326b1eafa361a",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e180-2014.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e180-2014-fluidez1.zip",
+          "bytes": 1898810,
+          "sha256": "3ca6aab4ab4108cfa666907332f89c3f437f129b6de9e9524698f8c71d9573a9"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e180-2014-planta.zip",
+        "bytes": 44850,
+        "sha256": "ae6ef2603a5d3e0e96645d117a156e39fcf113f22e24fdccc98d019d39c2b176"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e180-2014-wheels.zip",
+        "bytes": 3221,
+        "sha256": "7ccda8eaf798212e7a2144f574cefcbc2f1c06f55ac229d3b0590431560778f9"
+      },
+      "anios": "2014–2016"
+    },
+    {
+      "id": "toyota/rav4-2010",
+      "nombre": "RAV4",
+      "marca": "Toyota",
+      "anio": 2010,
+      "autor": "Teddy168",
+      "licencia": "CC-BY-4.0",
+      "fuente": "https://sketchfab.com/3d-models/2010-rav4-limited-edition-450e36f0992c4ae09bd6c8d509a51a77",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2010.zip",
+      "bytes": 2272885,
+      "sha256": "ba1e1947adedb1c37b7d4c549e3d40deec07aa3fb88ef81d8214b1af5bf7331b",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2010-v2.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2010-fluidez1.zip",
+          "bytes": 2205200,
+          "sha256": "edac0c194299bb6e0b2183d40b152bc324cdd8f3cef6c7e3279f02010f3c54de"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2010-planta.zip",
+        "bytes": 51646,
+        "sha256": "71b45fa1670c72de18963411765e15068b79e5a2634076ad444829ac7cb6a1ae"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-rav4-2010-wheels.zip",
+        "bytes": 3216,
+        "sha256": "b1143e9026a7598499a4f72bf9139d161bd2dabaedf2450a1d59358df71e32c2"
+      },
+      "anios": "2009–2012"
+    },
+    {
+      "id": "toyota/corolla-e140-2011",
+      "nombre": "Corolla",
+      "marca": "Toyota",
+      "anio": 2011,
+      "autor": "mamont nikita",
+      "licencia": "CC-BY-4.0",
+      "fuente": "https://sketchfab.com/3d-models/toyota-corolla-4703efa36e4b4aa9a342db3153ce3edd",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e140-2011.zip",
+      "bytes": 2040642,
+      "sha256": "58fde49d7b0847840b68791bdbc4989cba852f2c63e6dc79bb05e047130ab364",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e140-2011.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e140-2011-fluidez1.zip",
+          "bytes": 1947678,
+          "sha256": "0b547ec29b73e4295742c3308cda5d4dbc3b1b4886603b375e66e5a56228381d"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e140-2011-planta.zip",
+        "bytes": 47330,
+        "sha256": "df56b4585b1fa864fc75e39b0d77363af2aea7bf358b4c2b7827581a969b0a59"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/toyota-corolla-e140-2011-wheels.zip",
+        "bytes": 3220,
+        "sha256": "77cb27f02617f76e2bad08901194f152211fa5fdd5b6ba8990ff4c1cd93e8c00"
+      },
+      "anios": "2011–2013"
+    },
+    {
+      "id": "peugeot/301-2013",
+      "nombre": "301",
+      "marca": "Peugeot",
+      "anio": 2013,
+      "autor": "arturalmakaew y Ddiaz Design (llantas)",
+      "licencia": "CC-BY-4.0; llantas CC-BY-NC-SA-4.0",
+      "fuente": "https://sketchfab.com/3d-models/peugeot-301-free-53d2c65814524692a618bdad9921c06d",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/peugeot-301-2013.zip",
+      "bytes": 2066063,
+      "sha256": "a8df0162893eb8ebdd3d846ffbf89c6f8ef6e1bd0728e27a2dafd2cdd1dc8614",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/peugeot-301-2013.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/peugeot-301-2013-fluidez1.zip",
+          "bytes": 1977324,
+          "sha256": "5598f80358e311e55453d57357b367168a081a56b688165ae27cb0022fe2512c"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/peugeot-301-2013-planta.zip",
+        "bytes": 47606,
+        "sha256": "d7cd3e3f0efe5b61aca77aa446a4e736913fc9b9713a7148929302ba3dfee3c8"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/peugeot-301-2013-wheels.zip",
+        "bytes": 3218,
+        "sha256": "6a852bb1b60adb5e99ef526fb03a9e713e0ebbe6fe6d16e1c76c3b5324aeab4b"
+      },
+      "anios": "2013–2016"
+    },
+    {
+      "id": "honda/pilot-2005",
+      "nombre": "Pilot",
+      "marca": "Honda",
+      "anio": 2005,
+      "autor": "Irving Guerra (generado con Rodin de Hyper3D)",
+      "licencia": "Propia de LiteDash",
+      "fuente": "https://hyper3d.ai",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/honda-pilot-2005.zip",
+      "bytes": 2441811,
+      "sha256": "4a864b342c965cff37ce4b217cc391fda00edaeb2d554d526eaa5ab2f3f4e3ac",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/honda-pilot-2005.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/honda-pilot-2005-fluidez1.zip",
+          "bytes": 2356034,
+          "sha256": "24839972b0691979e00be11f4ba3cc32909028c6000e2296f44beac09bc2fe9c"
+        }
+      ],
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/honda-pilot-2005-wheels.zip",
+        "bytes": 3224,
+        "sha256": "b91ee90a3e3a45ce0e4c3f1a32c4c4db59b941e7fc68477f5a1d944fe2fdecad"
+      },
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/honda-pilot-2005-planta.zip",
+        "bytes": 66282,
+        "sha256": "7307ab2c62310ee40178de85df1e62328d9bc0bc7fa044eaf91095dcf2029683"
+      },
+      "anios": "2003–2005"
+    },
+    {
+      "id": "renault/sandero-rs-2019",
+      "nombre": "Sandero RS",
+      "marca": "Renault",
+      "anio": 2019,
+      "autor": "Irving Guerra (generado con Rodin de Hyper3D)",
+      "licencia": "Propia de LiteDash",
+      "fuente": "https://hyper3d.ai",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/renault-sandero-rs-2019.zip",
+      "bytes": 2173570,
+      "sha256": "c85170dcee36e3928548de131054132be4290bf8f89ebe86d47641f9348af859",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/renault-sandero-rs-2019.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/renault-sandero-rs-2019-fluidez1.zip",
+          "bytes": 2090634,
+          "sha256": "dd3f9e8bf90596b9150da22e3cd7b86cbe537282e8914712c7b668b75187bfac"
+        }
+      ],
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/renault-sandero-rs-2019-wheels.zip",
+        "bytes": 3220,
+        "sha256": "1ced6c023e1c928b7cd11dba44386c5aee7be9f578837848be6c10232cd0cc77"
+      },
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/renault-sandero-rs-2019-planta.zip",
+        "bytes": 52934,
+        "sha256": "a20d1b5f467a57ee223a808e51101454fd043ca89dfb053fe90bd745c2fa9c72"
+      },
+      "anios": "2019–2022"
+    },
+    {
+      "id": "volkswagen/jetta-2015",
+      "nombre": "Jetta",
+      "marca": "Volkswagen",
+      "anio": 2015,
+      "autor": "Nieve5677",
+      "licencia": "CC-BY-4.0",
+      "fuente": "https://sketchfab.com/3d-models/volkswagen-jetta-vi-09eab048845f4915a9dc4fb6c68f87b9",
+      "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/volkswagen-jetta-2015.zip",
+      "bytes": 1987666,
+      "sha256": "bb1bcc201c29630642ca3d3cd67b2fb41a55c9076444e56b11c9f88b11ec03c3",
+      "miniatura": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/volkswagen-jetta-2015.webp",
+      "extras": [
+        {
+          "nivel": 1,
+          "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/volkswagen-jetta-2015-fluidez1.zip",
+          "bytes": 1905356,
+          "sha256": "35c5d8cc58b2fc872279891c0b8d1090184048885785d11d6b6ca6a4c3f69b42"
+        }
+      ],
+      "planta": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/volkswagen-jetta-2015-planta.zip",
+        "bytes": 46110,
+        "sha256": "105e4283d5a6e4b28c95f243eb07045e1771d8044c3a4e3a3f20866a6a76aeaa"
+      },
+      "wheels": {
+        "url": "https://github.com/IrvingGuerra/litedash/releases/download/catalogo/volkswagen-jetta-2015-wheels.zip",
+        "bytes": 3226,
+        "sha256": "b0f5a391c1e172045db50896ac680a130986f28afeeace230075937a066c7194"
+      },
+      "anios": "2015–2018"
+    }
+  ]
+}
